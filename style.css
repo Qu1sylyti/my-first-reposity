@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	background-color: skyblue;
+	color: white;
+	font-family: monospace;
+}
+ul {
+	list-style: square;
+	background-color: black;
+	border: 3px solid white;
+	width: 280px;
+	display: block;
+	margin: 10px auto; 
+
+}
+
+#str {
+	list-style: square;
+	background-color: black;
+	border: 3px solid white;
+	width: 40px;
+	display: block;
+	margin: 10px auto; 
+
+}
